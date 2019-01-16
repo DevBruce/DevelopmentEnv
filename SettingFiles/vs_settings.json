@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.fontFamily": "Hack",
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "html.autoClosingTags": false,
+    "auto-rename-tag.activationOnLanguage": [
+        "html",
+        "xml",
+        "php",
+        "javascript"
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "~/../css"
+        }
+    ],
+    "powermode.enableShake": false
+}
