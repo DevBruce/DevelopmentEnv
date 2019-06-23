@@ -144,13 +144,9 @@ $ echo "alias vi='nvim'" >> ~/.zshrc
 - One Dark Pro
 - vscode-icons
 - Auto Rename Tag
-- Bracket Pair Colorizer
+- Bracket Pair Colorizer 2
 - htmltagwrap
 - Indenticator
-- Sass
-- Sass Lint
-- Live Sass Compiler
-- Live Server
 - Python
 
 <br>
